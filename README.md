@@ -12,15 +12,15 @@
 
 ### SteamWorkshop（创意工坊）版本
 
-> Ver0.4-P24
+> Ver0.5.3-P5
 
 ### Gitee（master分支）版本
 
-> Ver0.4-P22
+> Ver0.5.3-P5
 
 ### 当前正在开发版本
 
-> Ver0.5-Dev
+> Ver0.5.3
 
 ## SteamWorkshop链接
 

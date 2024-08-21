@@ -376,6 +376,13 @@ MHao
 >
 > From https://www.pixiv.net/artworks/117573708
 
+
+> umaloading45.dds
+> 
+> Author ささ舟 https://www.pixiv.net/users/90327961
+> 
+> From https://www.pixiv.net/artworks/117593387
+
 > 感谢你们的插画，我们在使用的过程中已尽量保留水印
 >
 > 如果您认为我们侵犯了您的著作权，可以通过Steam创意工坊联络我们删除
