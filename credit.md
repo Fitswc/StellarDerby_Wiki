@@ -2,6 +2,13 @@
 
 > 本Mod是许多人努力的结晶
 
+## 本Wiki编写
+
+棂
+
+<img src="b_82a438130e2fb36566a716a9bb035a67.jpg" alt="L" style="zoom:33%;" />
+
+
 ## 制作组：天狼星Studio 
 
 > 排名不分前后

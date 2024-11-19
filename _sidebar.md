@@ -3,6 +3,6 @@
 * [起源](/Origin)
 * [政体和国民理念](/PolityandNationalIdea)
 * [传统](/traditions)
-* [物种特质](/species_traits)
+* [特质](/traits)
 * [事件链](/Story)
 
