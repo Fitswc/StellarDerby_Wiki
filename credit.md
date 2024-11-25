@@ -107,6 +107,11 @@ MHao
 
 <img src="FCF15A3F15835D0740338939ED2C107E.jpg" alt="FCF15A3F15835D0740338939ED2C107E" style="zoom:22%;" />
 
+棂
+
+> 东商变革部分文案
+
+<img src="b_82a438130e2fb36566a716a9bb035a67.jpg" alt="L" style="zoom:33%;" />
 
 
 ## Mod加载界面图作者
