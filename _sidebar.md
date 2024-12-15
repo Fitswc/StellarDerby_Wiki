@@ -5,4 +5,4 @@
 * [传统](/traditions)
 * [特质](/traits)
 * [事件链](/Story)
-
+* [游戏系统](/GameSystem)
