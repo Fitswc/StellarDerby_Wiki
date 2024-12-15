@@ -395,6 +395,10 @@ MHao
 > 
 > From https://www.pixiv.net/artworks/117593387
 
+> umaloading46.dds
+> Author 莉遠
+> From https://www.pixiv.net/artworks/119059582
+
 > 感谢你们的插画，我们在使用的过程中已尽量保留水印
 >
 > 如果您认为我们侵犯了您的著作权，可以通过Steam创意工坊联络我们删除
