@@ -7,3 +7,4 @@
 * [事件链](/Story)
 * [游戏系统](/GameSystem)
 * [建筑与岗位](/buildingandpost)
+* [舰船部件](/parts)
