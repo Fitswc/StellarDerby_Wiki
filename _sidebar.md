@@ -4,6 +4,7 @@
 * [政体和国民理念](/PolityandNationalIdea)
 * [传统](/traditions)
 * [特质](/traits)
+* [遗珍和收藏](/edicts_and_relics)
 * [事件链](/Story)
 * [游戏系统](/GameSystem)
 * [建筑与岗位](/buildingandpost)

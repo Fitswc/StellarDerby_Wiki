@@ -6,7 +6,7 @@
 
 棂
 
-<img src="b_82a438130e2fb36566a716a9bb035a67.jpg" alt="L" style="zoom:33%;" />
+<img src="b_82a438130e2fb36566a716a9bb035a67.jpg" alt="L" style="zoom:22%;" />
 
 
 ## 制作组：天狼星Studio 
@@ -67,7 +67,7 @@ SolarisYuri!
 
 赤红
 
-<img src="b_560a0e4ede6b79f222971778a687b0b7.jpg" alt="b_560a0e4ede6b79f222971778a687b0b7" style="zoom:112%;" />
+<img src="b_560a0e4ede6b79f222971778a687b0b7.jpg" alt="b_560a0e4ede6b79f222971778a687b0b7" style="zoom:100%;" />
 
 ### 音乐
 
@@ -89,11 +89,13 @@ MHao
 
 <img src="b_354f428f21559d828807bfd499ef4433.jpg" alt="b_354f428f21559d828807bfd499ef4433" style="zoom:35%;" />
 
+
 贤惠的小雨酱
 
 > 菱钻奇宝部分文案
 
 <img src="b_188f7695cf38ccc2d04ae2c6f3c8747f.jpg" alt="b_188f7695cf38ccc2d04ae2c6f3c8747f" style="zoom:33%;" />
+
 
 神权之下
 
@@ -101,17 +103,41 @@ MHao
 
 <img src="b_f4dcedc4b55f6d71596cee6cf49a17b5.jpg" alt="b_f4dcedc4b55f6d71596cee6cf49a17b5" style="zoom:34%;" />
 
+
+
 斯逄亚
 
 > 万籁争鸣部分文案，部分内容校对
 
 <img src="FCF15A3F15835D0740338939ED2C107E.jpg" alt="FCF15A3F15835D0740338939ED2C107E" style="zoom:22%;" />
 
+
+
 棂
 
 > 东商变革部分文案
 
-<img src="b_82a438130e2fb36566a716a9bb035a67.jpg" alt="L" style="zoom:33%;" />
+>也文摄辉部分文案
+
+<img src="b_82a438130e2fb36566a716a9bb035a67.jpg" alt="L" style="zoom:22%;" />
+
+
+
+
+七海树人
+
+>真机伶部分文案
+
+<img src="b_f1660c209870e02659b60cffb78de6d9.jpg" alt="L" style="zoom:33%;" />
+
+
+
+
+ATR
+
+>真弓快车部分文案
+
+<img src="b_78bcff485b75ed215b8acc86ca98e19b.jpg" alt="L" style="zoom:33%;" />
 
 
 ## Mod加载界面图作者
